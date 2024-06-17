@@ -5,7 +5,7 @@
 #include <stdint.h>
 
 
-#define PRINT_SIZE(a, b) printf("size of %s: %zu bytes \n", a, sizeof(b));
+#define PRINT_SIZE(x,y) printf("size of %s : %d bytes\n", x, sizeof(y))
 
 
 int main(int argc, char *argv[]) {
