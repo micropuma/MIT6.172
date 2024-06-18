@@ -20,7 +20,7 @@ PRODUCT := matrix_multiply
 CC := clang
 
 # These flags will be applied to your code any time it is built.
-CFLAGS := -Wall -std=c11 -m64 -D_POSIX_C_SOURCE=200809L -fprofile-arcs -ftest-coverage
+CFLAGS := -Wall -std=c11 -m64 -D_POSIX_C_SOURCE=200809L 
 
 # These flags are applied only if you build your code with "make DEBUG=1".  -g
 # generates debugging symbols, -DDEBUG defines the preprocessor symbol "DEBUG"
@@ -42,7 +42,7 @@ CFLAGS_ASAN := -O1 -g -fsanitize=address -fno-omit-frame-pointer
 # default, your code is linked against the "rt" library with the flag -lrt;
 # this library is used by the timing code in the testbed.
 # LDFLAGS := -lrt -flto -fuse-ld=gold
-LDFLAGS := -fprofile-arcs -ftest-coverage
+LDFLAGS := 
 
 ################################################################################
 # You probably won't need to change anything below this line, but if you're

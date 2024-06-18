@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/leon/tutorial/6.172/build",
+  "command": "/usr/bin/clang -I/home/leon/tutorial/6.172/build/projects/p1 -I/home/leon/tutorial/6.172/projects/p1 -I/home/leon/tutorial/6.172/projects/p1/include -std=gnu11 -o projects/p1/CMakeFiles/everybit.dir/src/bitarray.c.o -c /home/leon/tutorial/6.172/projects/p1/src/bitarray.c",
+  "file": "/home/leon/tutorial/6.172/projects/p1/src/bitarray.c"
+},
+{
+  "directory": "/home/leon/tutorial/6.172/build",
+  "command": "/usr/bin/clang -I/home/leon/tutorial/6.172/build/projects/p1 -I/home/leon/tutorial/6.172/projects/p1 -I/home/leon/tutorial/6.172/projects/p1/include -std=gnu11 -o projects/p1/CMakeFiles/everybit.dir/src/ktiming.c.o -c /home/leon/tutorial/6.172/projects/p1/src/ktiming.c",
+  "file": "/home/leon/tutorial/6.172/projects/p1/src/ktiming.c"
+},
+{
+  "directory": "/home/leon/tutorial/6.172/build",
+  "command": "/usr/bin/clang -I/home/leon/tutorial/6.172/build/projects/p1 -I/home/leon/tutorial/6.172/projects/p1 -I/home/leon/tutorial/6.172/projects/p1/include -std=gnu11 -o projects/p1/CMakeFiles/everybit.dir/src/main.c.o -c /home/leon/tutorial/6.172/projects/p1/src/main.c",
+  "file": "/home/leon/tutorial/6.172/projects/p1/src/main.c"
+},
+{
+  "directory": "/home/leon/tutorial/6.172/build",
+  "command": "/usr/bin/clang -I/home/leon/tutorial/6.172/build/projects/p1 -I/home/leon/tutorial/6.172/projects/p1 -I/home/leon/tutorial/6.172/projects/p1/include -std=gnu11 -o projects/p1/CMakeFiles/everybit.dir/src/tests.c.o -c /home/leon/tutorial/6.172/projects/p1/src/tests.c",
+  "file": "/home/leon/tutorial/6.172/projects/p1/src/tests.c"
+}
+]

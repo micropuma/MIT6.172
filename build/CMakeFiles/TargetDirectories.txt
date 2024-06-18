@@ -1,0 +1,7 @@
+/home/leon/tutorial/6.172/build/CMakeFiles/edit_cache.dir
+/home/leon/tutorial/6.172/build/CMakeFiles/rebuild_cache.dir
+/home/leon/tutorial/6.172/build/projects/CMakeFiles/edit_cache.dir
+/home/leon/tutorial/6.172/build/projects/CMakeFiles/rebuild_cache.dir
+/home/leon/tutorial/6.172/build/projects/p1/CMakeFiles/everybit.dir
+/home/leon/tutorial/6.172/build/projects/p1/CMakeFiles/edit_cache.dir
+/home/leon/tutorial/6.172/build/projects/p1/CMakeFiles/rebuild_cache.dir
